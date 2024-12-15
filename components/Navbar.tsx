@@ -15,7 +15,7 @@ const Navbar = () => {
             className="object-contain"
           />
         </Link>
-        39.03
+        1:11:00
         <CustomButton
           title="Sign in"
           btnType="button"
